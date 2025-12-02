@@ -5,7 +5,7 @@
 # A first-level heading
 ## A second-level heading
 ### A third-level heading
-
+----------------------------------------
 > [!NOTE]
 > Useful information that users should know, even when skimming content.
 
